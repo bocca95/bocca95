@@ -1,12 +1,14 @@
 # Henrique | Computer Engineering Student  
 
 ## 🛠 About Me  
-Hello! My name is Henrique, I’m 21 years old, and I’m a **Computer Engineering** student at **PUC Campinas**.  
-I have a strong interest in **game development** using **C++ and C#**, as well as a deep focus on **Artificial Intelligence**.  
-I’m fluent in **Portuguese** and have **advanced English** skills. I’m always looking to learn new technologies and improve my programming skills.  
+Hello! My name is Henrique, I’m 21 years old, and I’m a Computer Engineering student at PUC Campinas.
+I have a strong interest in game development, as well as a deep focus on Artificial Intelligence.
+I’m fluent in Portuguese and have advanced English skills. I’m always looking to learn new technologies and improve my programming skills.
+My favorite programming languages are **C#, C++, and Python**.
 
 ## 🚀 Skills & Interests  
-- 🕹️ **Game Development**: C++, C#, SFML, Unity  
+- 🕹️ **Game Development**: C++, C#, SFML, Unity
+- 👨‍💻 **Software Development**: Python, C++, C#  
 - 🤖 **Artificial Intelligence**: Machine Learning, Neural Networks  
 - 🗄️ **Databases**: MySQL, SQL  
 - 🖥️ **Software Development**: OOP, Design Patterns, Optimization  
