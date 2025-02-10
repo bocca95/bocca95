@@ -1,23 +1,22 @@
-# Henrique | Computer Engineering Student
+# Henrique | Computer Engineering Student  
 
-## 🛠 About Me
-Olá! Meu nome é Henrique, tenho 21 anos e sou estudante de **Engenharia da Computação** na **PUC Campinas**.  
-Tenho grande interesse no **desenvolvimento de jogos** utilizando **C++ e C#**, além de um forte foco em **Inteligência Artificial**.  
-Sou fluente em **português** e possuo **inglês** avançado. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades em programação.
+## 🛠 About Me  
+Hello! My name is Henrique, I’m 21 years old, and I’m a **Computer Engineering** student at **PUC Campinas**.  
+I have a strong interest in **game development** using **C++ and C#**, as well as a deep focus on **Artificial Intelligence**.  
+I’m fluent in **Portuguese** and have **advanced English** skills. I’m always looking to learn new technologies and improve my programming skills.  
 
-## 🚀 Skills & Interests
+## 🚀 Skills & Interests  
 - 🕹️ **Game Development**: C++, C#, SFML, Unity  
 - 🤖 **Artificial Intelligence**: Machine Learning, Neural Networks  
 - 🗄️ **Databases**: MySQL, SQL  
 - 🖥️ **Software Development**: OOP, Design Patterns, Optimization  
-- 📚 **Continuous Learning**: Sempre explorando novas tecnologias  
+- 📚 **Continuous Learning**: Always exploring new technologies  
 
-## 📌 Projects
-🔹 **[PONG](https://github.com/bocca95/pong)** – Recriei o iconico jogo PONG em C++.  
+## 📌 Projects  
+🔹 **[PONG](https://github.com/bocca95/pong)** – I recreated the iconic PONG game in C++.  
 
-## 📫 Contact Me
-📧 **Email:** [henrique.bocca11@gmail.com](mailto:henrique.bocca11@gmail.com)  
-🐙 **GitHub:** [https://github.com/bocca95](https://github.com/bocca95)
+## 📫 Contact Me  
+📧 **Email**: [henrique.bocca11@gmail.com](mailto:henrique.bocca11@gmail.com)  
+🐙 **GitHub**: [github.com/bocca95](https://github.com/bocca95)  
 
----
-
+--
