@@ -18,7 +18,7 @@ Sou fluente em **português** e possuo **inglês** avançado. Sempre busco apren
 ## 📫 Contact Me
 📧 **Email:** [henrique.bocca11@gmail.com](mailto:henrique.bocca11@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/henrique](linkedin.com/in/henrique-bocca65296a279)  
-🐙 **GitHub:** [github.com/bocca95](github.com/bocca95)
+🐙 **GitHub:** [https://github.com/bocca95](https://github.com/bocca95)
 
 ---
 
