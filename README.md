@@ -2,17 +2,17 @@
 
 ## 🛠 About Me  
 Hello! My name is Henrique, I’m 21 years old, and I’m a Computer Engineering student at PUC Campinas.
-I have a strong interest in game development, as well as a deep focus on Artificial Intelligence.
+I have a strong interest in game development and in Artificial Intelligence/Machine Learning.
 I’m fluent in Portuguese and have advanced English skills. I’m always looking to learn new technologies and improve my programming skills.
-My favorite programming languages are **C#, C++, and Python**.
 
-## 🚀 Skills & Interests  
-- 🕹️ **Game Development**: C++, C#, SFML, Unity
-- 👨‍💻 **Software Development**: Python, C++, C#  
-- 🤖 **Artificial Intelligence**: Machine Learning, Neural Networks  
+## 🚀 Skills   
+- 🕹️ **Game Development**: C++
+- 👨‍💻 **Software Development**: Python, C/C++
 - 🗄️ **Databases**: MySQL, SQL  
-- 🖥️ **Software Development**: OOP, Design Patterns, Optimization  
-- 📚 **Continuous Learning**: Always exploring new technologies  
+
+## 🥇 Interests
+- 🤖 **Artificial Intelligence**: Machine Learning, Neural Networks  
+- 💻 ** OOP, Optimization**
 
 ## 📌 Projects  
 🔹 **[PONG](https://github.com/bocca95/pong)** – I recreated the iconic PONG game in C++.  
